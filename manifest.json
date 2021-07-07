@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§dEvery 60 seconds in africa a minute passes",
+        "name": "§aEonic Engine Beta",
+        "uuid": "019094f8-16a2-481c-8569-87e3d3268cd8",
+        "min_engine_version": [ 1,12,0 ],
+        "version": [0, 2, 0]
+    },
+    "mi_engine_version": [ 1,12,0 ],"modules": [
+        {
+            "description": "resourcePack.vanilla_server.description",
+            "type": "data",
+            "uuid": "019094f8-16a2-481c-8569-87e3d3268cd8",
+            "version": [0, 2, 0]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+IMPORTANT:
+
+- This behavior pack is outdated from the newer versions of bedrock edition and might not work properly when applied to a world/realm
+
+- Feel free to contribute to this repo and I am happy to review your changes
